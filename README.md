@@ -59,3 +59,13 @@ MIT License - See [LICENSE](LICENSE)
 ---
 
 *Building the classic arcade experience, one character at a time.*
+
+## About the Author
+
+Eve120384 is a passionate developer with a keen interest in recreating classic games and exploring advanced terminal manipulation techniques. With a focus on clean architecture and efficient coding practices, Eve120384 has contributed to several projects that push the boundaries of what's possible in terminal-based applications.
+
+### Other Repositories by Eve120384
+
+- [eve](https://github.com/eve120384/eve): A repository showcasing various projects and experiments by Eve120384.
+- [pacman](https://github.com/eve120384/pacman): Implementation of the pacman game
+
